@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PowerMgr	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setupModules	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+POWER_EN_ADC	LITERAL1
+POWER_EN_TIMER0	LITERAL1
+POWER_EN_TIMER1	LITERAL1
+POWER_EN_TIMER2	LITERAL1
+POWER_EN_SPI	LITERAL1
+POWER_EN_TWI	LITERAL1
+POWER_EN_USART	LITERAL1
+
+POWER_EN_ALL	LITERAL1
+
