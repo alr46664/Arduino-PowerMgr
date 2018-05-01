@@ -1,7 +1,5 @@
 #include "PowerMgr.h"
 
-using namespace std;
-
 PowerMgr::PowerMgr() { }
 
 /*
